@@ -20,7 +20,7 @@ sections:
 
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: CV
+        text: Resume
         url: uploads/Juan_Pablo_Naranjo_Resume.pdf
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
